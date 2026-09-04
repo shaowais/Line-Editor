@@ -1,9 +1,9 @@
 # C Command-Line Line Editor
 
 ## Team Members
-* [Member 1 Name]
-* [Member 2 Name]
-* [Member 3 Name]
+* Sha Mohammed Owais
+* Rehan Mohammed
+* Samiulla
 
 ## Implemented Features
 * Core 1: Display Document (`P`)
